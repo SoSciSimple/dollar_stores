@@ -13,7 +13,7 @@ An exploration of non-urban hardship
 ## Data Sources
 [Citylab:](https://github.com/theatlantic/citylab-data/tree/master/citylab-congress) CDI - Congressional district classifications
 
-[Dollar Store Data:](https://raw.githubusercontent.com/jshannon75/snap_retailers_2008_2017/master/data/dollars_all_wide.csv) Location and other data on dollar stores in the continental USA
+[Dollar Store Data:](https://raw.githubusercontent.com/jshannon75/snap_retailers_2008_2017/master/data/dollars_all_wide.csv) Location and other data on SNAP authorized dollar stores (2008-2018) compiled [Jerry Shannon](http://geography.uga.edu/directory/people/jerry-shannon)
 
 [Social Science Research Council HDI Data:](https://www.ssrc.org/programs/component/moa/mapping-the-measure-of-america/) Data on development markers by congressional district.
 
@@ -23,3 +23,4 @@ An exploration of non-urban hardship
 
 ### Notes
 The initial data set of SNAP Authorized dollar stores listed stores which existed during at least one year between 2008 and 2018. The vast majority of stores (all but 600) existed during at least one year between 2014 and 2018. Stores were mapped to districts using lat/lon data and government published shapefiles.
+Data on 

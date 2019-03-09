@@ -22,5 +22,4 @@ An exploration of non-urban hardship
 
 
 ### Notes
-The initial data set of SNAP Authorized dollar stores listed stores which existed during at least one year between 2008 and 2018. The vast majority of stores (all but 600) existed during at least one year between 2014 and 2018. Stores were mapped to districts using lat/lon data and government published shapefiles.
-Data on 
+The initial data set of SNAP Authorized dollar stores listed stores which existed during at least one year between 2008 and 2018. The vast majority of stores (all but 600) existed during at least one year between 2014 and 2018. Stores were mapped to districts using lat/lon data and government published shapefiles. Pennsylvania districts are excluded from all graphics and calculation relating to congressional shifts between 2016 and 2018 due to redistricting.
